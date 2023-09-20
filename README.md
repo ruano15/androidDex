@@ -18,16 +18,11 @@ Instalação das dependencias do projeto
 npm install
 ```
 
-Rodar aplicativo no IOS ou no Android
+Rodar aplicativo no Android
 
 ```rodar aplicativo
 # android
 npm react-native run-android
-```
-
-```rodar aplicativo
-# ios
-npm run ios
 ```
 
 ## Funcionalidades
@@ -45,7 +40,8 @@ Ao clicar nos pokemons é aberto um "Modal" que exibe algumas informações basi
 
 * Aba de pesquisa para pokemons especificos e suas formas alternativas;<br/>
 * Especificação das evoluções no "Modal" dos pokemons;<br/>
-* Melhorias nos estilos e cores do aplicativo.
+* Melhorias nos estilos e cores do aplicativo;<br/>
+* Adicionar suporte para IOS.
 
 ## Status do Projeto
 
