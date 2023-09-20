@@ -4,15 +4,21 @@ O intuito da criação desse projeto foi estudar as requisições de API por axi
 
 ## Instalação
 
+Clonagem do pedido
+
 ```Clonar o projeto
 # utilize o git bash
 git clone https://github.com/ruano15/androidDex.git
 ```
 
+Instalação das dependencias do projeto
+
 ```instalar as dependencias
 # using npm
 npm install
 ```
+
+Rodar aplicativo no IOS ou no Android
 
 ```rodar aplicativo
 # android
