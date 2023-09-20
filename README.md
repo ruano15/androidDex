@@ -1,4 +1,4 @@
-## ANDROIDDEX
+## AndroidDex
 
 O intuito da criação desse projeto foi estudar as requisições de API por axios utilizando a pokeAPI e estudar o funcionamento das declarações em Typescript. Um projeto simples que nos transporta para nossa infancia onde sempre soubemos que deveriamos capturar os pokemons e hoje podemos capturar eles com a ajuda da pokeAPI e te-los em nossas mãos.
 
