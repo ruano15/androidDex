@@ -32,8 +32,8 @@ npm run ios
 
 ## Funcionalidades
 
-Os pokemons foram divididos pelas gerações que foram adicionadas. Cada geração tem apenas os pokemons que foram adicionados nela.
-Todas as formas alternativas, como as Giganta Max ou formas alternativas do Deoxis por exemplo, estão adicionadas na aba "Outras formas".
+Os pokemons foram divididos pelas gerações que foram adicionadas. Cada geração tem apenas os pokemons que foram adicionados nela.<br/>
+Todas as formas alternativas, como as Giganta Max ou formas alternativas do Deoxis por exemplo, estão adicionadas na aba "Outras formas".<br/>
 Todos os pokemons em todas as abas estão sendo mostrados em ordem da pokedex nacional.
 Ao clicar nos pokemons é aberto um "Modal" que exibe algumas informações basicas do pokemons correspondente.
 
@@ -43,10 +43,16 @@ Ao clicar nos pokemons é aberto um "Modal" que exibe algumas informações basi
 
 ## Funcionalidades Futuras
 
-*Aba de pesquisa para pokemons especificos e suas formas alternativas;
-*Especificação das evoluções no "Modal" dos pokemons;
-*Melhorias nos estilos e cores do aplicativo.
+* Aba de pesquisa para pokemons especificos e suas formas alternativas;<br/>
+* Especificação das evoluções no "Modal" dos pokemons;<br/>
+* Melhorias nos estilos e cores do aplicativo.
 
 ## Status do Projeto
 
 O projeto ainda está em andamento, vamos continuar implementando novas funções conforme formos aprofundando nossos estudos.
+
+## Redes Sociais
+
+[LinkedIn](https://www.linkedin.com/in/lucasruano/)<br/>
+[Github](https://github.com/ruano15)<br/>
+[Vitrine Dev](https://cursos.alura.com.br/vitrinedev/lucas-ruano15)<br/>
